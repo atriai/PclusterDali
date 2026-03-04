@@ -12,7 +12,7 @@ spec:
   operator: xgboost
   image: image
   command: "python3 -u main.py --operator=xgboost --sleep=300"
-  engineName: main-aks-dev
+  engineName: main-aks-dev 
 
 
   types:
